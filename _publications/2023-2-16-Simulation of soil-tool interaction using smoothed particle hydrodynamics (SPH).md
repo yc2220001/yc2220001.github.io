@@ -1,7 +1,7 @@
 ---
 title: "Simulation of soil-tool interaction using smoothed particle hydrodynamics (SPH)"
 collection: publications
-permalink: /publication/023-2-16-Simulation of soil-tool interaction using smoothed particle hydrodynamics (SPH)
+permalink: /publication/2023-2-16-Simulation of soil-tool interaction using smoothed particle hydrodynamics (SPH)
 date: 2023-2-16
 venue: 'Soil and Tillage Research'
 paperurl: '10.3390/w16010082'
