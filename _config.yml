@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Can Yi / Personal Homepage"
+title                    : "Can Yi / Academic Webpage"
 title_separator          : "-"
 name                     : &name "Can Yi"
 description              : &description "A PhD candidate from Tongji University"
