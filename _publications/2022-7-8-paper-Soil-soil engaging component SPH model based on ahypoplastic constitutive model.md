@@ -7,5 +7,3 @@ venue: 'Transactions of the Chinese Society of Agricultural Engineering'
 paperurl: '10.11975/j.issn.1002-6819.2022.13.006'
 citation: 'Gao Tao, Xie Shouyong, Hu Man, et al. Soil-soil engaging component SPH model based on a hypoplastic constitutive model[J]. Transactions of the Chinese Society of Agricultural Engineering (Transactions of the CSAE), 2022, 38(13): 47-55.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
