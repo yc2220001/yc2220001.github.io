@@ -1,1 +1,12 @@
+---
+layout: archive
+title: "Awards"
+permalink: /Awards/
+author_profile: true
+---
 
+{% include base_path %}
+
+{% for post in site.Awards reversed %}
+  {% include archive-single.html %}
+{% endfor %}
