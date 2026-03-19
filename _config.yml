@@ -212,6 +212,9 @@ collections:
   Awards:
     output: true
     permalink: /:collection/:path/
+  Conferences:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -271,6 +274,15 @@ defaults:
   - scope:
       path: ""
       type: Awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # Conferences
+  - scope:
+      path: ""
+      type: Conferences
     values:
       layout: single
       author_profile: true
