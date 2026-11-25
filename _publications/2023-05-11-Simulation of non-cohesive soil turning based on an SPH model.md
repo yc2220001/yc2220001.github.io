@@ -1,7 +1,7 @@
 ---
 title: "Simulation of non-cohesive soil turning based on an SPH model"
 collection: publications
-permalink: /publication/2023-5-11-Simulation of non-cohesive soil turning based on an SPH model
+permalink: /publication/2023-05-11-Simulation of non-cohesive soil turning based on an SPH model
 date: 2023-5-11
 venue: 'Computers and Geotechnics'
 paperurl: '10.1016/j.compgeo.2023.105502'
