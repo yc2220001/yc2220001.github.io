@@ -1,7 +1,7 @@
 ---
 title: "Soil-soil engaging component SPH model based on ahypoplastic constitutive model"
 collection: publications
-permalink: /publication/2022-7-8-Soil-soil engaging component SPH model based on ahypoplastic constitutive model
+permalink: /publication/2022-07-08-Soil-soil engaging component SPH model based on ahypoplastic constitutive model
 date: 2022-7-8
 venue: 'Transactions of the Chinese Society of Agricultural Engineering'
 paperurl: '10.11975/j.issn.1002-6819.2022.13.006'
