@@ -1,7 +1,7 @@
 ---
 title: "Multi-layer fluid-soil-structure interaction SPH modeling of suction bucket foundation installation process"
 collection: publications
-permalink: /publication/2026-3-18-Multi-layer fluid-soil-structure interaction SPH modeling of suction bucket foundation installation process
+permalink: /publication/2026-03-18-Multi-layer fluid-soil-structure interaction SPH modeling of suction bucket foundation installation process
 date: 2026-1-13
 venue: 'Computers and Geotechnics'
 paperurl: '10.1016/j.compgeo.2026.108061'
