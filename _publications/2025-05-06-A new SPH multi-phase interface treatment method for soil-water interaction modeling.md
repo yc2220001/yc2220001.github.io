@@ -1,7 +1,7 @@
 ---
 title: "A new SPH multi-phase interface treatment method for soil-water interaction modeling"
 collection: publications
-permalink: /publication/2025-5-6-A new SPH multi-phase interface treatment method for soil-water interaction modeling
+permalink: /publication/2025-05-06-A new SPH multi-phase interface treatment method for soil-water interaction modeling
 date: 2025-5-6
 venue: 'Computers and Geotechnics'
 paperurl: '10.1016/j.compgeo.2025.107282'
